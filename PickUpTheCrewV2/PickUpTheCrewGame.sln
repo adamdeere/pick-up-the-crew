@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickUpTheCrewGame", "PickUpTheCrewGame\PickUpTheCrewGame\PickUpTheCrewGame.csproj", "{194BC7D2-D323-42FA-998A-51A3F726C9BB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PickUpTheCrewGameContent", "PickUpTheCrewGame\PickUpTheCrewGameContent\PickUpTheCrewGameContent.contentproj", "{20E40955-3248-466B-82F4-C7381C8E4787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{194BC7D2-D323-42FA-998A-51A3F726C9BB}.Debug|x86.ActiveCfg = Debug|x86
+		{194BC7D2-D323-42FA-998A-51A3F726C9BB}.Debug|x86.Build.0 = Debug|x86
+		{194BC7D2-D323-42FA-998A-51A3F726C9BB}.Release|x86.ActiveCfg = Release|x86
+		{194BC7D2-D323-42FA-998A-51A3F726C9BB}.Release|x86.Build.0 = Release|x86
+		{20E40955-3248-466B-82F4-C7381C8E4787}.Debug|x86.ActiveCfg = Debug|x86
+		{20E40955-3248-466B-82F4-C7381C8E4787}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
